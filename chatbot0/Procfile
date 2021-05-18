@@ -1,0 +1,2 @@
+worker: python connection/rmi/start_server.py
+web: gunicorn app:app

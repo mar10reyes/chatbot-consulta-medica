@@ -1,0 +1,32 @@
+{
+    "diseases":[
+        {
+            "name":"gripa comun",
+            "symptoms":[
+                "fiebre",
+                "dolorenelcuerpo",
+                "dolordegarganta",
+                "catarro"
+            ],
+            "medicine":"dolex gripa"
+        },
+        {
+            "name":"covid-19",
+            "symptoms":[
+                "fiebre",
+                "faltadeaire",
+                "tos"
+            ],
+            "medicine":"N/A"
+        },
+        {
+            "name":"gastritis",
+            "symptoms":[
+                "dolordeestomago",
+                "nauseas",
+                "reflujo"
+            ],
+            "medicine":"milanta"
+        }
+    ]
+}
